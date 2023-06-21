@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**oaustegard/oaustegard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h1>Hi 👋 I'm Oskar</h1>
+    <h2>You may be interested in...</h2>
+    <ul>
+        <li><a rel="me" href="https://linkedin.com/in/austegard">My LinkedIn</a></li>
+        <li><a rel="me" href="https://mastodon.social/@austegard">My Mastodon.social</a></li>
+        <li><a rel="me" href="https://github.com/oaustegard">My GitHub</a> &nbsp; <small>(<a rel="me" href="https://github.com/oaustegard/oaustegard.github.io">this site</a>)</small></li>
+        <li><a rel="me" href="https://gists.github.com/oaustegard">My Gists</a></li>
+        <li><a rel="me" href="https://www.google.com/search?q=%22oskar+austegard%22+-site%3Alinkedin.com+-site%3Atwitter.com+-site%3Agithub.com">...everything else</a></li>
+        <li><a rel="pappa" href="https://atle.austegard.com">My dad, Atle Austegard</a>
+        <li><a rel="not me" href="https://www.google.com/search?q=austegard+-oskar">other namesakes</a></li>
+        <li><small><a rel="me" href="https://twitter.com/austegard">(oh yeah: my dormant Twitter account)</a></small></li>
+    </ul>
