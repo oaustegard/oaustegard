@@ -10,5 +10,5 @@
         <li><a rel="me" href="https://www.google.com/search?q=%22oskar+austegard%22+-site%3Alinkedin.com+-site%3Atwitter.com+-site%3Agithub.com">...everything else</a></li>
         <li><a rel="pappa" href="https://atle.austegard.com">My dad, Atle Austegard</a>
         <li><a rel="not me" href="https://www.google.com/search?q=austegard+-oskar">other namesakes</a></li>
-        <li><small><a rel="me" href="https://twitter.com/austegard">(oh yeah: my dormant Twitter account)</a></small></li>
+        <li><small><a rel="me" href="https://x.com/austegard">(oh yeah: my dormant <s>Twitter</s> x account)</a></small></li>
     </ul>
