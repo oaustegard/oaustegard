@@ -3,7 +3,7 @@
     <ul>
         <li><a rel="me" href="https://austegard.com">My Website (look familiar?)</a></li>
         <li><a rel="me" href="https://linkedin.com/in/austegard">My LinkedIn</a></li>
-        <li><a rel="me" href="https://bsky.app/profile/austegard.bsky.social">My BlueSky</a></li>
+        <li><a rel="me" href="https://bsky.app/profile/austegard.com">My BlueSky</a></li>
         <li><a rel="me" href="https://mastodon.social/@austegard">My Mastodon.social</a> (deprecated)</li>
         <li><a rel="me" href="https://github.com/oaustegard">My GitHub</a> &nbsp; <small>(<a rel="me" href="https://github.com/oaustegard/oaustegard.github.io">the code for my website</a>)</small></li>
         <li><a rel="me" href="https://gists.github.com/oaustegard">My Gists</a></li>
