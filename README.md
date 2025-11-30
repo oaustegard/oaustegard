@@ -35,12 +35,6 @@
     <li><strong><a href="https://github.com/oaustegard/web2md">web2md</a></strong> - Python-based web page to markdown converter (fork of AnswerDotAI/web2md)</li>
 </ul>
 
-<h3>📝 Writings & Research</h3>
-<ul>
-    <li><a href="https://austegard.com/AI-in-SDLC/">AI in the Software Development Life Cycle</a> - Longform exploration (June 2023)</li>
-    <li><a href="https://gist.github.com/oaustegard">The Great Acceleration</a> - Comprehensive writing on preparing society for exponential AI evolution (Nov 2024 - Apr 2025)</li>
-</ul>
-
 <h2>Connect With Me</h2>
 <ul>
     <li><a rel="me" href="https://austegard.com">🌐 My Website</a></li>
