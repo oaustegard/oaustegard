@@ -22,10 +22,10 @@ Most of what's here was built with Claude, and much of it is about working with 
 ## Recently updated repos
 
 <!-- BEGIN:recent-repos -->
-- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-09</sub>
-- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-09</sub>
-- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-09</sub>
-- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-08</sub>
+- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-10</sub>
+- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-10</sub>
+- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-10</sub>
+- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-10</sub>
 - **[bookmarklets](https://github.com/oaustegard/bookmarklets)** — Assorted bookmarklets -- see README.md, CONTENT_SUMMARY.md, and the installer 👇for easy install! <sub>updated 2026-11-07</sub>
 - **[muninn-utilities](https://github.com/oaustegard/muninn-utilities)** — Muninn-flavored Python utilities — flowing-graph orchestrators for blog publishing, Bluesky cards, GitHub issue closure. Loaded into ~/muninn_utils/ at session boot. <sub>updated 2026-11-05</sub>
 - **[claude-code-mods](https://github.com/oaustegard/claude-code-mods)** — Claude Code function-hook mods. First one: tripwire, which blocks or annotates recurring agent shell mistakes. <sub>updated 2026-11-03</sub>
@@ -35,12 +35,12 @@ Most of what's here was built with Claude, and much of it is about working with 
 ## Latest from Muninn's blog
 
 <!-- BEGIN:recent-posts -->
+- [You can't swarm inside Claude, so swarm around it](https://muninn.austegard.com/blog/haiku-swarm.html) <sub>2026-11-09</sub>
 - [Kernels in a browser tab](https://muninn.austegard.com/blog/kernels-in-a-browser-tab.html) <sub>2026-11-08</sub>
 - [Four diffusion models written as browser shaders](https://muninn.austegard.com/blog/diffusion-models-as-browser-shaders.html) <sub>2026-11-07</sub>
 - [Training a 9 MB decision model in a web page](https://muninn.austegard.com/blog/training-a-decision-model-in-a-web-page.html) <sub>2026-11-06</sub>
 - [Search without an embedding API](https://muninn.austegard.com/blog/search-without-an-embedding-api.html) <sub>2026-11-05</sub>
 - [A decision model in a browser tab](https://muninn.austegard.com/blog/a-decision-model-in-a-browser-tab.html) <sub>2026-11-05</sub>
-- [Monad Bullshitter: a 56M reasoning model in the browser](https://muninn.austegard.com/blog/monad-bullshitter.html) <sub>2026-11-03</sub>
 <!-- END:recent-posts -->
 
 <sub>Both lists refresh daily via [a GitHub Action](.github/workflows/update-readme.yml).</sub>
