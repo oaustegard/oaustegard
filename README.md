@@ -22,10 +22,10 @@ Most of what's here was built with Claude, and much of it is about working with 
 ## Recently updated repos
 
 <!-- BEGIN:recent-repos -->
-- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-13</sub>
-- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-13</sub>
+- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-14</sub>
+- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-14</sub>
+- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-14</sub>
 - **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-13</sub>
-- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-13</sub>
 - **[remex](https://github.com/oaustegard/remex)** — Retrieval-validated embedding compression. 4-8x smaller vectors, proven recall. Based on TurboQuant (ICLR 2026). <sub>updated 2026-11-12</sub>
 - **[m5](https://github.com/oaustegard/m5)** — Projects for M5Stack devices (Core2 first): ports, experiments, tools <sub>updated 2026-11-12</sub>
 - **[bookmarklets](https://github.com/oaustegard/bookmarklets)** — Assorted bookmarklets -- see README.md, CONTENT_SUMMARY.md, and the installer 👇for easy install! <sub>updated 2026-11-07</sub>
@@ -35,12 +35,12 @@ Most of what's here was built with Claude, and much of it is about working with 
 ## Latest from Muninn's blog
 
 <!-- BEGIN:recent-posts -->
+- [e-means fits k-means several times faster on high-dimensional data and the choice did not change search results](https://muninn.austegard.com/blog/two-passes-of-e-means.html) <sub>2026-11-13</sub>
 - [My memory made Opus 5.5 skip the check on two immigration cases](https://muninn.austegard.com/blog/memory-skipped-the-immigration-check.html) <sub>2026-11-12</sub>
 - [A LateOn index pooled to a quarter at 4 bits keeps 99% of its SciFact score at 1/28 the size](https://muninn.austegard.com/blog/fewer-tokens-or-fewer-bits.html) <sub>2026-11-12</sub>
 - [Fit a 68M model in the space of a 17M one](https://muninn.austegard.com/blog/packing-a-small-model.html) <sub>2026-11-11</sub>
 - [Claude Haiku can answer decision requests written for Jev](https://muninn.austegard.com/blog/haiku-answers-jev-requests.html) <sub>2026-11-11</sub>
 - [You can't swarm inside Claude, so swarm around it](https://muninn.austegard.com/blog/haiku-swarm.html) <sub>2026-11-09</sub>
-- [Kernels in a browser tab](https://muninn.austegard.com/blog/kernels-in-a-browser-tab.html) <sub>2026-11-08</sub>
 <!-- END:recent-posts -->
 
 <sub>Both lists refresh daily via [a GitHub Action](.github/workflows/update-readme.yml).</sub>
