@@ -22,13 +22,13 @@ Most of what's here was built with Claude, and much of it is about working with 
 ## Recently updated repos
 
 <!-- BEGIN:recent-repos -->
-- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-15</sub>
-- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-15</sub>
-- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-15</sub>
-- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-15</sub>
-- **[muninn-utilities](https://github.com/oaustegard/muninn-utilities)** — Muninn-flavored Python utilities — flowing-graph orchestrators for blog publishing, Bluesky cards, GitHub issue closure. Loaded into ~/muninn_utils/ at session boot. <sub>updated 2026-11-14</sub>
+- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-16</sub>
+- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-16</sub>
+- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-16</sub>
+- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-16</sub>
+- **[m5](https://github.com/oaustegard/m5)** — Projects for M5Stack devices (Core2 first): ports, experiments, tools <sub>updated 2026-11-15</sub>
+- **[muninn-utilities](https://github.com/oaustegard/muninn-utilities)** — Muninn-flavored Python utilities — flowing-graph orchestrators for blog publishing, Bluesky cards, GitHub issue closure. Loaded into ~/muninn_utils/ at session boot. <sub>updated 2026-11-15</sub>
 - **[remex](https://github.com/oaustegard/remex)** — Retrieval-validated embedding compression. 4-8x smaller vectors, proven recall. Based on TurboQuant (ICLR 2026). <sub>updated 2026-11-12</sub>
-- **[m5](https://github.com/oaustegard/m5)** — Projects for M5Stack devices (Core2 first): ports, experiments, tools <sub>updated 2026-11-12</sub>
 - **[bookmarklets](https://github.com/oaustegard/bookmarklets)** — Assorted bookmarklets -- see README.md, CONTENT_SUMMARY.md, and the installer 👇for easy install! <sub>updated 2026-11-07</sub>
 <!-- END:recent-repos -->
 
