@@ -22,10 +22,10 @@ Most of what's here was built with Claude, and much of it is about working with 
 ## Recently updated repos
 
 <!-- BEGIN:recent-repos -->
-- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-19</sub>
-- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-19</sub>
+- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-20</sub>
+- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-20</sub>
+- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-20</sub>
 - **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-19</sub>
-- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-19</sub>
 - **[aeyu.io](https://github.com/oaustegard/aeyu.io)** — Participation Awards — Giving recognition for efforts where effort was given <sub>updated 2026-11-18</sub>
 - **[browser-extensions](https://github.com/oaustegard/browser-extensions)** — Collection of browser extensions, mostly vibe coded <sub>updated 2026-11-18</sub>
 - **[m5](https://github.com/oaustegard/m5)** — Projects for M5Stack devices (Core2 first): ports, experiments, tools <sub>updated 2026-11-18</sub>
