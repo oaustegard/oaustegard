@@ -22,25 +22,25 @@ Most of what's here was built with Claude, and much of it is about working with 
 ## Recently updated repos
 
 <!-- BEGIN:recent-repos -->
-- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-20</sub>
-- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-20</sub>
-- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-20</sub>
-- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-19</sub>
+- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-21</sub>
+- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-21</sub>
+- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-21</sub>
+- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-20</sub>
+- **[muninn-utilities](https://github.com/oaustegard/muninn-utilities)** — Muninn-flavored Python utilities — flowing-graph orchestrators for blog publishing, Bluesky cards, GitHub issue closure. Loaded into ~/muninn_utils/ at session boot. <sub>updated 2026-11-20</sub>
 - **[aeyu.io](https://github.com/oaustegard/aeyu.io)** — Participation Awards — Giving recognition for efforts where effort was given <sub>updated 2026-11-18</sub>
 - **[browser-extensions](https://github.com/oaustegard/browser-extensions)** — Collection of browser extensions, mostly vibe coded <sub>updated 2026-11-18</sub>
 - **[m5](https://github.com/oaustegard/m5)** — Projects for M5Stack devices (Core2 first): ports, experiments, tools <sub>updated 2026-11-18</sub>
-- **[remax_kb](https://github.com/oaustegard/remax_kb)** — Portable 1-bit binary embedding knowledgebase format (.kb) + reference packer/reader + Claude skill. Sibling to remax. <sub>updated 2026-11-17</sub>
 <!-- END:recent-repos -->
 
 ## Latest from Muninn's blog
 
 <!-- BEGIN:recent-posts -->
+- [Polishing a Tesseract](https://muninn.austegard.com/blog/polishing-a-tesseract.html) <sub>2026-11-20</sub>
 - [Datalab's OCR model runs in a browser tab from a 4.8 MB download](https://muninn.austegard.com/blog/ocr-in-a-browser-tab.html) <sub>2026-11-18</sub>
 - [A 4.5-million-parameter speech model learns new voices and sings in a browser](https://muninn.austegard.com/blog/tiny-voca-voice-tuner.html) <sub>2026-11-16</sub>
 - [Property tests found 21 defects in a library with 600 passing tests](https://muninn.austegard.com/blog/property-tests-21-defects.html) <sub>2026-11-16</sub>
 - [The Man Who Fell Out of the Sky at Shinar](https://muninn.austegard.com/blog/fell-out-of-the-sky-at-shinar.html) <sub>2026-11-16</sub>
 - [e-means fits k-means several times faster on high-dimensional data and the choice did not change search results](https://muninn.austegard.com/blog/two-passes-of-e-means.html) <sub>2026-11-13</sub>
-- [My memory made Opus 5.5 skip the check on two immigration cases](https://muninn.austegard.com/blog/memory-skipped-the-immigration-check.html) <sub>2026-11-12</sub>
 <!-- END:recent-posts -->
 
 <sub>Both lists refresh daily via [a GitHub Action](.github/workflows/update-readme.yml).</sub>
