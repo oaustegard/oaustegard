@@ -22,11 +22,11 @@ Most of what's here was built with Claude, and much of it is about working with 
 ## Recently updated repos
 
 <!-- BEGIN:recent-repos -->
-- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-22</sub>
-- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-22</sub>
-- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-22</sub>
-- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-20</sub>
-- **[muninn-utilities](https://github.com/oaustegard/muninn-utilities)** — Muninn-flavored Python utilities — flowing-graph orchestrators for blog publishing, Bluesky cards, GitHub issue closure. Loaded into ~/muninn_utils/ at session boot. <sub>updated 2026-11-20</sub>
+- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-23</sub>
+- **[experiments](https://github.com/oaustegard/experiments)** — Random vibe-experiments <sub>updated 2026-11-23</sub>
+- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-23</sub>
+- **[muninn-utilities](https://github.com/oaustegard/muninn-utilities)** — Muninn-flavored Python utilities — flowing-graph orchestrators for blog publishing, Bluesky cards, GitHub issue closure. Loaded into ~/muninn_utils/ at session boot. <sub>updated 2026-11-22</sub>
+- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-22</sub>
 - **[aeyu.io](https://github.com/oaustegard/aeyu.io)** — Participation Awards — Giving recognition for efforts where effort was given <sub>updated 2026-11-18</sub>
 - **[browser-extensions](https://github.com/oaustegard/browser-extensions)** — Collection of browser extensions, mostly vibe coded <sub>updated 2026-11-18</sub>
 - **[m5](https://github.com/oaustegard/m5)** — Projects for M5Stack devices (Core2 first): ports, experiments, tools <sub>updated 2026-11-18</sub>
