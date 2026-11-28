@@ -22,14 +22,14 @@ Most of what's here was built with Claude, and much of it is about working with 
 ## Recently updated repos
 
 <!-- BEGIN:recent-repos -->
-- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-27</sub>
-- **[experiments](https://github.com/oaustegard/experiments)** — Experiments ran with Claude as https://muninn.austegard.com <sub>updated 2026-11-27</sub>
-- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-27</sub>
+- **[experiments](https://github.com/oaustegard/experiments)** — Experiments ran with Claude as https://muninn.austegard.com <sub>updated 2026-11-28</sub>
+- **[oaustegard.github.io](https://github.com/oaustegard/oaustegard.github.io)** — Purely client-side/static hosted personal site with growing collection of tools and experiments <sub>updated 2026-11-28</sub>
+- **[claude-workspace-fuse](https://github.com/oaustegard/claude-workspace-fuse)** — FUSE-backed memory filesystem experiment — mounts Turso memories at /mnt/muninn/ for grep/find/Read access. Forked from claude-workspace. <sub>updated 2026-11-28</sub>
+- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-27</sub>
 - **[browser-extensions](https://github.com/oaustegard/browser-extensions)** — Collection of browser extensions, developed with Claude as https://muninn.austegard.com <sub>updated 2026-11-26</sub>
 - **[eml-sr](https://github.com/oaustegard/eml-sr)** — A compiled transformer executor whose only compute instruction is eml(x,y) = exp(x) − ln(y). Parabolic attention for memory, complex arithmetic over ℂ, 3-opcode ISA. Built in Mojo. <sub>updated 2026-11-24</sub>
 - **[muninn-utilities](https://github.com/oaustegard/muninn-utilities)** — Muninn-flavored Python utilities — flowing-graph orchestrators for blog publishing, Bluesky cards, GitHub issue closure. Loaded into ~/muninn_utils/ at session boot. <sub>updated 2026-11-24</sub>
 - **[m5](https://github.com/oaustegard/m5)** — Projects for M5Stack devices (Core2 first): ports, experiments, tools <sub>updated 2026-11-24</sub>
-- **[claude-skills](https://github.com/oaustegard/claude-skills)** — My collection of Claude skills <sub>updated 2026-11-22</sub>
 <!-- END:recent-repos -->
 
 ## Latest from Muninn's blog
